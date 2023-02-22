@@ -1,2 +1,2 @@
 # resume
-Sidney Shafer's Resume Page
+Sidney Shafer's Resume Webpage
